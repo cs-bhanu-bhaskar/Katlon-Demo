@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Invalid username or password</name>
+   <tag></tag>
+   <elementGuidId>0acbd0d5-9404-45b5-a7a2-fba7aa05aa0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.align-items-center.display-flex > span.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login']/div/div/div/div[2]/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3df220db-cddb-4408-b171-a01c45f2dd1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-bind</name>
+      <type>Main</type>
+      <value>::error</value>
+      <webElementGuid>010652fa-a68c-4c5e-bca8-8af0cf85b710</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>3dc3c3ba-8c0e-4cc6-a1fa-8505980ff2fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid username or password</value>
+      <webElementGuid>2a6e26bf-4c81-4e92-8275-48a67b251792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)/div[@class=&quot;content padding-top-lg&quot;]/div[@class=&quot;login-panel ng-scope&quot;]/div[@class=&quot;login-panel-body&quot;]/div[@class=&quot;custom-alert custom-alert-danger margin-bottom-xlg margin-top-md ng-scope&quot;]/div[@class=&quot;align-items-center display-flex&quot;]/span[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>952587fc-9583-4ab2-a988-7db43669885d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login']/div/div/div/div[2]/div/span[2]</value>
+      <webElementGuid>b012f178-c357-4396-bb26-fdb34b92556f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TM'])[1]/following::span[5]</value>
+      <webElementGuid>f77aae89-02b2-4e7b-9036-3fa5779f0abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::span[1]</value>
+      <webElementGuid>e57c05d0-7625-4639-88cd-e89256a39651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::span[1]</value>
+      <webElementGuid>3e7704fd-cf90-45b8-a963-6a2ec426ab37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Invalid username or password']/parent::*</value>
+      <webElementGuid>065ec096-94a0-4f11-ada1-436a3b437b65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>3867d06c-fa75-425d-90c6-173b1f5726da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Invalid username or password' or . = 'Invalid username or password')]</value>
+      <webElementGuid>2aaf15c2-8ef8-4d5d-ba05-77322cf8207b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

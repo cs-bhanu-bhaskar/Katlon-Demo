@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ADD CONDITION</name>
+   <tag></tag>
+   <elementGuidId>113b6a8b-cd18-4282-87c7-0f8cc0a111c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[name=&quot;addFilterButton&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@name='addFilterButton']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6c4c6d4a-0e88-4de8-9851-431ed900252d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pull-left font-10px margin-right-lg btn-link btn</value>
+      <webElementGuid>7a9311b2-510b-4488-b68c-06c118fd87ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>addFilterButton</value>
+      <webElementGuid>299395a0-3ce2-4695-b334-938dbd649612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-click</name>
+      <type>Main</type>
+      <value>addConditionSet()</value>
+      <webElementGuid>73cf0390-2a70-4041-9ca3-153a104765d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ADD CONDITION</value>
+      <webElementGuid>657c0751-da72-41b9-b0ae-2e2030f99aa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[@class=&quot;animated fadeIn modal-open&quot;]/div[@class=&quot;modal modal-ingestion ng-scope ng-isolate-scope in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/queue-wizard[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;modal-body padding-0 queue-wizard&quot;]/div[@class=&quot;cs-wizard ingestion-steps queue-wizard-steps ng-isolate-scope&quot;]/div[@class=&quot;steps ng-scope&quot;]/section[@class=&quot;ingestion-modal-padding wz-reviewoptions-step step ng-scope ng-isolate-scope current&quot;]/form[@class=&quot;ng-scope ng-dirty ng-valid ng-valid-required ng-valid-parse&quot;]/div[@class=&quot;full-width wz-step-height&quot;]/div[@class=&quot;row wizard-full-height margin-0&quot;]/div[@class=&quot;col-md-8 padding-bottom-65 padding-top-40 padding-left-45 padding-right-53 wizard-full-height overflow-auto&quot;]/div[@class=&quot;padding-top-md ng-scope&quot;]/div[@class=&quot;dashed-border-section ng-scope&quot;]/div[@class=&quot;padding-lg top-border&quot;]/div[@class=&quot;form-group margin-bottom-lg ng-scope&quot;]/div[@class=&quot;ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty&quot;]/div[@class=&quot;condition-group ng-scope&quot;]/div[@class=&quot;row margin-left-0 margin-top-lg margin-bottom-lg&quot;]/div[@class=&quot;col-md-11 padding-left-sm&quot;]/a[@class=&quot;pull-left font-10px margin-right-lg btn-link btn&quot;]</value>
+      <webElementGuid>75df0d71-fa9a-4a40-b8f2-25c16712c6b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@name='addFilterButton']</value>
+      <webElementGuid>9ab76031-ce07-4aa6-befb-41cd67f378af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ADD CONDITION')]</value>
+      <webElementGuid>d6521d1f-8c97-47e4-9683-818c8c6676c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rule Name'])[1]/following::a[1]</value>
+      <webElementGuid>2e04f6ca-954e-40e1-a287-b2369d53ae6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resulting Value:'])[1]/preceding::a[2]</value>
+      <webElementGuid>5f57d4dc-f12a-4051-8f4e-5dc957aade3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a</value>
+      <webElementGuid>6c594b42-1e13-4988-9a30-c5d9fa2a6d1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@name = 'addFilterButton' and (text() = ' ADD CONDITION' or . = ' ADD CONDITION')]</value>
+      <webElementGuid>a8f611e9-c1de-4211-902e-6fb87d2cd3ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Credit Cards_icon icon-check text-success</name>
+   <tag></tag>
+   <elementGuidId>19e57bd4-bfe5-43c6-a984-6ee11423b8cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#save-link-10 > span.icon.icon-check.text-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='save-link-10']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>aa46a34d-48d0-4c59-85b6-0500351706f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-check text-success</value>
+      <webElementGuid>3e4b4f40-3985-4e4d-858f-36d6c1b223f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;save-link-10&quot;)/span[@class=&quot;icon icon-check text-success&quot;]</value>
+      <webElementGuid>aad081d4-9454-49a1-9e23-360f9148c9ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='save-link-10']/span</value>
+      <webElementGuid>befbcc24-78bb-4569-b08a-9178fa8c7a4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button/span</value>
+      <webElementGuid>ce3ed238-b433-4815-afcb-1ff7fd20b883</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

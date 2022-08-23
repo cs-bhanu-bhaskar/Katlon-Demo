@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select</name>
+   <tag></tag>
+   <elementGuidId>71a691be-7e1d-4084-8a45-40ef0df8c776</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#moduleForm-assignedTo-lookup-btn > div > span.text.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='moduleForm-assignedTo-lookup-btn']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b43dbad2-cc95-41ae-a530-4e6bd6889e15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text ng-binding</value>
+      <webElementGuid>9449e338-a7b4-4419-88ba-5b0713a5c412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>7365e83b-c925-440a-a416-9b135ae82554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;moduleForm-assignedTo-lookup-btn&quot;)/div[1]/span[@class=&quot;text ng-binding&quot;]</value>
+      <webElementGuid>6e37ee54-b31b-4827-a7c5-e7b67c9418a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='moduleForm-assignedTo-lookup-btn']/div/span</value>
+      <webElementGuid>5d7c1551-b63b-4679-bc35-846c2e162cad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='{}'])[2]/following::span[3]</value>
+      <webElementGuid>b2f019b0-5087-434d-afb1-729bcd01da43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='{}'])[3]/preceding::span[2]</value>
+      <webElementGuid>8d153efc-0d74-458a-8c89-bf5d57f4c21e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/preceding::span[3]</value>
+      <webElementGuid>56236a74-997a-4c13-8caa-d2fb6c53f3e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select']/parent::*</value>
+      <webElementGuid>91c47d2c-3381-43cf-a604-7fab8f494736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/div/div/button/div/span</value>
+      <webElementGuid>591998bf-d45f-4770-828b-07631ac817e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Select' or . = 'Select')]</value>
+      <webElementGuid>bd42eb65-3906-4d2c-ae22-5c156c12c590</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

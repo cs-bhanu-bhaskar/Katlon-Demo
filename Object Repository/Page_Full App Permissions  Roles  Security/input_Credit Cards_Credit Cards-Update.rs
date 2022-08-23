@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Credit Cards_Credit Cards-Update</name>
+   <tag></tag>
+   <elementGuidId>0bf7d3b1-bb83-4bea-9262-911ee34221b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5e67e3f3-dd04-4e8b-b2fb-5b8865dde773</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Credit Cards-Update</value>
+      <webElementGuid>e1da50d4-65ac-4c09-b577-c9815ff654ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>fb65cc18-01d5-4e42-9786-be3fbd4736a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-model</name>
+      <type>Main</type>
+      <value>row.entity.canUpdate</value>
+      <webElementGuid>307c25f9-1fee-407c-b831-bbaefea3669f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-disabled</name>
+      <type>Main</type>
+      <value>!grid.appScope.securityCanUpdate || row.entity.module.type === &quot;contentHub&quot;</value>
+      <webElementGuid>44ed4793-adf9-4819-b657-ff03064f7a78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-change</name>
+      <type>Main</type>
+      <value>grid.appScope.onChangePermission(row.entity, &quot;update&quot;)</value>
+      <webElementGuid>4e661414-b50d-47d1-ac31-3852ceac77ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid ng-not-empty</value>
+      <webElementGuid>b2c42df8-e9e6-4601-88a5-a0d7dc089703</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>61fe75e5-ebb4-406f-903f-58c866d1cd7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Credit Cards-Update&quot;)</value>
+      <webElementGuid>f19c0945-b473-4d38-a2b2-8547c0b48406</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='Credit Cards-Update']</value>
+      <webElementGuid>d98d1724-a7a9-412a-887c-153f5002cb97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1660735123434-15-uiGrid-010Z-cell']/div/input</value>
+      <webElementGuid>8b96e524-3180-41a2-b580-80af2bf0e2c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div/div/div[5]/div/input</value>
+      <webElementGuid>53f39766-e3e7-4800-9630-bbf07fc40c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'Credit Cards-Update' and @type = 'checkbox']</value>
+      <webElementGuid>f3cc6be4-a498-41f8-8351-c3a370b58f2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

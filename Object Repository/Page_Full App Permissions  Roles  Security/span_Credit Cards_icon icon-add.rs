@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Credit Cards_icon icon-add</name>
+   <tag></tag>
+   <elementGuidId>a3896989-1555-427d-b40f-47a413f0a3da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#1660735123432-15-uiGrid-00J8-cell > div.center-block.text-center.padding-top-sm.ng-scope > button.btn.btn-xs.btn-default > span.icon.icon-add</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='1660735123432-15-uiGrid-00J8-cell']/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b7443fc4-5357-4c92-9a45-0dea46721e0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-add</value>
+      <webElementGuid>6db82baa-63a0-41fc-934a-5966b063f901</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1660735123432-15-uiGrid-00J8-cell&quot;)/div[@class=&quot;center-block text-center padding-top-sm ng-scope&quot;]/button[@class=&quot;btn btn-xs btn-default&quot;]/span[@class=&quot;icon icon-add&quot;]</value>
+      <webElementGuid>324ef6ff-37b0-4abc-bea7-293d9ef213a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1660735123432-15-uiGrid-00J8-cell']/div/button/span</value>
+      <webElementGuid>a7773a01-ddd6-4254-8e16-418f743f2246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div/div/div[2]/div/button/span</value>
+      <webElementGuid>b890c148-2902-4566-8e62-7a7b0b668006</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

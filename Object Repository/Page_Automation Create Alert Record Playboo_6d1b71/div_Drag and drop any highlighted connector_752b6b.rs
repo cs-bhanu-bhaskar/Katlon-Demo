@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Drag and drop any highlighted connector_752b6b</name>
+   <tag></tag>
+   <elementGuidId>5037df77-c20e-43ad-98a4-d27b8eea450d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.step-icon.right.connector-tooltip.icon.icon-add-step-playbook</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-0e0e17f6-b412-439c-baa7-b3b72a77bfbe']/div/div[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>86b472c0-f554-4f20-8bb3-8a0ccab9e004</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>step-icon right connector-tooltip icon icon-add-step-playbook</value>
+      <webElementGuid>5927a4aa-df21-44d6-97ae-ba6644f744ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Drag and drop any highlighted connector points to add a new step</value>
+      <webElementGuid>552c9ce1-388a-4852-a597-82e4eb72f512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-0e0e17f6-b412-439c-baa7-b3b72a77bfbe&quot;)/div[@class=&quot;step-content&quot;]/div[@class=&quot;step-icon right connector-tooltip icon icon-add-step-playbook&quot;]</value>
+      <webElementGuid>3f3d154a-ab27-4e9d-9a72-1e22ab161e10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-0e0e17f6-b412-439c-baa7-b3b72a77bfbe']/div/div[10]</value>
+      <webElementGuid>cb58c656-c4dc-440f-8bd2-ff64b09d0321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Condition Applied'])[1]/following::div[5]</value>
+      <webElementGuid>18b076a2-d951-4969-bf36-dea6ae96fa99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='if'])[1]/following::div[5]</value>
+      <webElementGuid>c86b1ad1-2da3-48c6-a322-3ecdb0e76a95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[10]</value>
+      <webElementGuid>ffdb70b5-0d46-4f68-993b-72ccde1d9d29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Drag and drop any highlighted connector points to add a new step' or . = 'Drag and drop any highlighted connector points to add a new step')]</value>
+      <webElementGuid>269776d0-a9a3-4cd7-aa9e-3ccb86cc62d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

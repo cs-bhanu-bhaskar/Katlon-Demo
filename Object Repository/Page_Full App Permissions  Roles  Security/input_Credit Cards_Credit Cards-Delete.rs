@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Credit Cards_Credit Cards-Delete</name>
+   <tag></tag>
+   <elementGuidId>65fee346-163b-46e2-a3fe-3cac1e7b70a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='Credit Cards-Delete']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d42f53c1-265a-4310-9c14-1f240b6f9de6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Credit Cards-Delete</value>
+      <webElementGuid>75139e0a-6856-48a7-be85-88754446e646</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>93392275-3eb7-4247-b016-06b79d92f1c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-model</name>
+      <type>Main</type>
+      <value>row.entity.canDelete</value>
+      <webElementGuid>d53b6b49-842f-4c49-a7d5-83a84785ae72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-disabled</name>
+      <type>Main</type>
+      <value>!grid.appScope.securityCanUpdate || row.entity.module.type === &quot;contentHub&quot;</value>
+      <webElementGuid>2629a5d9-0ed6-44ba-a0a7-98572b1440ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid ng-not-empty</value>
+      <webElementGuid>86376a31-f9d2-4478-b3c8-8debf25ce79c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ce472557-9425-4822-8a9d-33bd8be5eb53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Credit Cards-Delete&quot;)</value>
+      <webElementGuid>42bd738e-ba86-4133-ad6b-fdbb21520daf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='Credit Cards-Delete']</value>
+      <webElementGuid>f05d3d3b-8159-47e7-98a4-e42c519fd83b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1660735123434-15-uiGrid-0110-cell']/div/input</value>
+      <webElementGuid>ad8bb921-fc87-413b-8001-1d2c137e97d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div/div/div[6]/div/input</value>
+      <webElementGuid>7a8843d0-6dd2-4a41-81ff-2449867be431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'Credit Cards-Delete' and @type = 'checkbox']</value>
+      <webElementGuid>8f11a713-f2b1-436d-9b05-cb51d027d22a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

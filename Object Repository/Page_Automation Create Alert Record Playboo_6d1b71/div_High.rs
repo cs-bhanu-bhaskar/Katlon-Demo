@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_High</name>
+   <tag></tag>
+   <elementGuidId>16387bcd-f785-443c-b79b-cb8e3c168e11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[name=&quot;severity-option-360&quot;] > div.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Medium'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b0a71b0a-7cde-4e6c-b51d-c3062c060066</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>395487ab-93b2-4a3f-9e44-f7b7b9d5b440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> High</value>
+      <webElementGuid>f7ef2f7f-42a3-41ee-82a8-f0c77d9fff3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[@class=&quot;animated fadeIn&quot;]/div[@class=&quot;popover ng-scope ng-isolate-scope bottom lookup fade in&quot;]/div[@class=&quot;popover-inner&quot;]/div[@class=&quot;popover-content&quot;]/ul[@class=&quot;dropdown-menu ng-scope&quot;]/li[@class=&quot;ng-scope&quot;]/a[@class=&quot;option&quot;]/div[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>43a8ed39-12a4-4cc0-9ae6-81453c48a401</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medium'])[1]/following::div[1]</value>
+      <webElementGuid>d7466976-985c-481a-9b1b-a5d5b26d47ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Low'])[2]/following::div[2]</value>
+      <webElementGuid>011ced40-cd64-4679-aef5-fae05c0dc0e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Critical'])[1]/preceding::div[1]</value>
+      <webElementGuid>0f4f5413-a667-4bc3-9c25-030474a2c15f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='High']/parent::*</value>
+      <webElementGuid>851fe88a-061f-4644-a749-3dbd0583a09f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[7]/a/div</value>
+      <webElementGuid>b4f3013c-4d99-4362-b4e6-a6c0330da75f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' High' or . = ' High')]</value>
+      <webElementGuid>81f0ab0a-58a5-44d9-93bf-9b4d7ca07dab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

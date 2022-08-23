@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Generate Shifts</name>
+   <tag></tag>
+   <elementGuidId>0b919665-c46f-4437-afa9-91c2a7b639f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.margin-top-lg.margin-bottom-lg > button.btn.btn-primary.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[232]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c7c0cb5b-f8c5-48d1-a0a6-1ea0ba5eb514</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>329df5f9-a87a-480a-a06c-f9bdb65787e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary ng-scope</value>
+      <webElementGuid>4b884db8-b018-4724-8296-1931d2ed57c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>$ctrl.openGenerateShifts()</value>
+      <webElementGuid>48fead99-4582-45d9-b359-5ce4b453ae2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>$ctrl.permission.create</value>
+      <webElementGuid>a3f95add-efc0-4213-b52a-b1dd2ea23a8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Generate Shifts</value>
+      <webElementGuid>82882cf5-4ad6-4d4d-8e75-8a35ab41314b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/assignment-automation[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;porting-history ng-isolate-scope&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane ng-scope active&quot;]/shift-calendar[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;shift-weeks&quot;]/div[@class=&quot;margin-top-lg margin-bottom-lg&quot;]/button[@class=&quot;btn btn-primary ng-scope&quot;]</value>
+      <webElementGuid>01cd37e2-423b-427d-875d-76f320f2c8db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[232]</value>
+      <webElementGuid>c147461a-86fc-41a9-8a88-c8ad7c332577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/assignment-automation/div/div/div[2]/shift-calendar/div/div/button</value>
+      <webElementGuid>c308359e-aa0c-4d0d-8c01-943d1f6caea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/following::button[1]</value>
+      <webElementGuid>e9622d13-68c1-410f-bc2d-948d5247360e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Shifts'])[1]/preceding::button[1]</value>
+      <webElementGuid>abe21b7f-feed-4f84-816a-dae6778ec9c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Initiate Shift Handover'])[1]/preceding::button[2]</value>
+      <webElementGuid>ab191b18-a1ca-4ac9-a947-5865e3c236b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Generate Shifts']/parent::*</value>
+      <webElementGuid>09f2a851-a456-4776-9301-871c8f393ccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//shift-calendar/div/div/button</value>
+      <webElementGuid>a15ee777-480f-4455-86ff-0d090223a499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Generate Shifts' or . = 'Generate Shifts')]</value>
+      <webElementGuid>2b0efc06-0e33-491b-95e7-a9c608fe9ee7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

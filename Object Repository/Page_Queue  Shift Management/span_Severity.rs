@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Severity</name>
+   <tag></tag>
+   <elementGuidId>016a9161-b1ba-47b7-811e-2e6a7e647bad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='queueRules-0-severity-lookup-btn']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4eed3e2e-3a21-4f1b-8c21-0f28acb3196c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text ng-binding</value>
+      <webElementGuid>e0c7c049-66cd-42e7-b886-4a0e17f6ed96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Severity</value>
+      <webElementGuid>c00aeee8-7668-444a-9c3d-c4ac9cea92ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;queueRules-0-severity-lookup-btn&quot;)/div[1]/span[@class=&quot;text ng-binding&quot;]</value>
+      <webElementGuid>c254a93c-d2a3-4e23-b6b8-2b3b7e8b8124</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='queueRules-0-severity-lookup-btn']/div/span</value>
+      <webElementGuid>46f3e4bf-69c7-4b33-9eed-1c03fc0954f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRIMARY FIELDS'])[1]/following::span[3]</value>
+      <webElementGuid>f303e010-3eac-46b9-9d9d-d1433bac1b4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Severity'])[1]/following::span[5]</value>
+      <webElementGuid>e5f3a7fa-d898-4ca9-bee1-811df24015ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='{}'])[1]/preceding::span[2]</value>
+      <webElementGuid>fb023226-2af1-4729-8c94-78a05ea275da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/span</value>
+      <webElementGuid>160a129c-658d-49f5-b97c-59e022d9da3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Severity' or . = 'Severity')]</value>
+      <webElementGuid>60cccca3-9c8a-47ad-86f9-bdcf21ad538f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

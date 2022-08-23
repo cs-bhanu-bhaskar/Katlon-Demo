@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select a module to editor create new mo_7574b9</name>
+   <tag></tag>
+   <elementGuidId>5e864aea-5d5c-48cd-95c0-61eeed0d0bf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.margin-0.padding-bottom-md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='admin-pane']/div/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7e908b10-c331-437b-9f50-c642ec048e6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row margin-0 padding-bottom-md</value>
+      <webElementGuid>d26fc0ca-50ae-404f-8585-a456a2d508a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select a module to edit or create new moduleUntitled *AgentsAlertsAnnouncementsAppliancesApprovalsAssetsAttachmentsCampaignsCommentCommunicationsCompaniesEventsQueuesHuntsIncidentsIndicatorsPeopleRoutersSaved ReportsShiftsSLA TemplatesTasksTenantsWar Rooms Revert Revert to last savedRevert to last publishedSave</value>
+      <webElementGuid>e0728622-31a7-43dc-8e83-8020594a1b2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;admin-pane&quot;)/div[@class=&quot;admin-content ng-scope&quot;]/div[@class=&quot;padding-bottom-xlg clearfix ng-scope&quot;]/div[3]/div[@class=&quot;row margin-0 padding-bottom-md&quot;]</value>
+      <webElementGuid>6564145c-e155-45ea-8cca-f0addec1c85b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='admin-pane']/div/div/div[3]/div</value>
+      <webElementGuid>b1fd574a-4bd5-4132-a26f-7e0631e3cb16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publish All Modules'])[1]/following::div[6]</value>
+      <webElementGuid>91979356-c1fb-4b9a-817d-a9291d031252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revert All'])[1]/following::div[6]</value>
+      <webElementGuid>07704e94-9deb-4270-948e-39d5f3244a41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div[3]/div</value>
+      <webElementGuid>6bfa0c36-e6d6-4d7c-b4f9-47416888eeb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select a module to edit or create new moduleUntitled *AgentsAlertsAnnouncementsAppliancesApprovalsAssetsAttachmentsCampaignsCommentCommunicationsCompaniesEventsQueuesHuntsIncidentsIndicatorsPeopleRoutersSaved ReportsShiftsSLA TemplatesTasksTenantsWar Rooms Revert Revert to last savedRevert to last publishedSave' or . = 'Select a module to edit or create new moduleUntitled *AgentsAlertsAnnouncementsAppliancesApprovalsAssetsAttachmentsCampaignsCommentCommunicationsCompaniesEventsQueuesHuntsIncidentsIndicatorsPeopleRoutersSaved ReportsShiftsSLA TemplatesTasksTenantsWar Rooms Revert Revert to last savedRevert to last publishedSave')]</value>
+      <webElementGuid>1fc7cdc0-1091-48de-8149-af5b908a5abf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

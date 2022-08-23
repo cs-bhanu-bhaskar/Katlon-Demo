@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Welcome to the 1 Security Orchestration_97051d</name>
+   <tag></tag>
+   <elementGuidId>e981d914-8bf6-4865-b427-eee7e7f88406</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.login-slides</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f2bddbb2-817b-49b2-be9e-da63341da695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-slides</value>
+      <webElementGuid>8fc56dba-3529-4046-96c3-829d24ec7294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome to the #1 Security Orchestration, Automation &amp; Incident Response SolutionIntegrate your team, processes, and security tools on a single platform.Learn More About FortiSOARTM</value>
+      <webElementGuid>541c321f-885c-424b-b72a-b24774c4e285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;backdrop&quot;)/span[@class=&quot;align-items-center display-flex full-height ng-scope&quot;]/div[@class=&quot;row fill full-width ng-scope&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-sm-0 col-md-push-1 login-animation col-push cell-h-center&quot;]/div[@class=&quot;login-font-size login-slides-container&quot;]/div[@class=&quot;login-slides&quot;]</value>
+      <webElementGuid>6b37577f-12ff-4e34-ac7d-3216d78d3505</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='backdrop']/span/div/div/div/div</value>
+      <webElementGuid>4711e8e4-81c9-4277-8ec4-365415ae3192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div</value>
+      <webElementGuid>8a0f71c6-47a8-4b39-b9ca-3d1394c4fa26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Welcome to the #1 Security Orchestration, Automation &amp; Incident Response SolutionIntegrate your team, processes, and security tools on a single platform.Learn More About FortiSOARTM' or . = 'Welcome to the #1 Security Orchestration, Automation &amp; Incident Response SolutionIntegrate your team, processes, and security tools on a single platform.Learn More About FortiSOARTM')]</value>
+      <webElementGuid>c84bb650-b46a-4ef3-9cbd-ed246fbd78e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

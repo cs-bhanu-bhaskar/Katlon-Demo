@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Save Playbook</name>
+   <tag></tag>
+   <elementGuidId>9a989b8b-9545-4ddd-8d98-a274bfa1c2f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='playbook-submit']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7ba74c29-d139-4d55-944d-43264e80c581</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-show</name>
+      <type>Main</type>
+      <value>!$parent.showPBVersionText</value>
+      <webElementGuid>9f608e12-6518-4b28-bd95-1ad69176974b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>fe365cfb-e6c4-48d6-9033-87858c2059f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save Playbook</value>
+      <webElementGuid>b6923391-90e4-476f-87db-b3781521b8cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;playbook-submit&quot;)/span[2]</value>
+      <webElementGuid>d994a816-909d-419f-883f-ff7ad07cd334</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='playbook-submit']/span[2]</value>
+      <webElementGuid>dfed35c2-cd03-438f-8da0-46d66caa5ac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revert To Last Saved'])[1]/following::span[2]</value>
+      <webElementGuid>b874870f-cd9a-4fbb-911d-ce423e695490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Saved Versions'])[1]/following::span[2]</value>
+      <webElementGuid>221cae3f-fb23-4d9d-a519-a7a0a6b64cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use Ctrl(⌘ Cmd) to select step(s) and Ctrl+C/V (⌘ Cmd + C/V) to Copy/Paste.'])[1]/preceding::span[4]</value>
+      <webElementGuid>f40ac4c5-d149-4ded-b6ce-e4e2bc8647c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No step information available'])[1]/preceding::span[6]</value>
+      <webElementGuid>a0eee96d-de19-4130-a77c-c1171218f9ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save Playbook']/parent::*</value>
+      <webElementGuid>d46a0b9d-5e5e-4e3c-86b4-d2998954648d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[9]/span[2]</value>
+      <webElementGuid>8827d6a6-4721-49d8-90e4-70073d0759d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Save Playbook' or . = 'Save Playbook')]</value>
+      <webElementGuid>8441ff4c-c3a5-407c-a457-e9061410de5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

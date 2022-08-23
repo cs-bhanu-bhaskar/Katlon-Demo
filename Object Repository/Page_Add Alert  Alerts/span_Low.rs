@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Low</name>
+   <tag></tag>
+   <elementGuidId>9a7a3cb8-1029-4f39-b69e-e727b828f633</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#moduleForm-severity-lookup-btn > div > span.text.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='moduleForm-severity-lookup-btn']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ebd4856b-67ba-422b-a46f-a7d7a6b1d949</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text ng-binding</value>
+      <webElementGuid>1460e635-958d-4ffc-9663-e03eccafbc0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Low</value>
+      <webElementGuid>8f7058ae-13c6-428c-b48a-5990b92139b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;moduleForm-severity-lookup-btn&quot;)/div[1]/span[@class=&quot;text ng-binding&quot;]</value>
+      <webElementGuid>7c25a4ff-7d9a-4a2a-8406-00c6df25148c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='moduleForm-severity-lookup-btn']/div/span</value>
+      <webElementGuid>5ffc8e32-872e-4924-8d14-4c7790ccf55d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='{}'])[1]/following::span[3]</value>
+      <webElementGuid>9ea8b4ee-b518-492a-95d7-020435ae16e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='{}'])[2]/preceding::span[2]</value>
+      <webElementGuid>a67807d6-782f-4f4e-b885-dc1d93bb9e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Low']/parent::*</value>
+      <webElementGuid>910699d0-1e4e-44ed-9f6d-a286aeb91a5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div/button/div/span</value>
+      <webElementGuid>75703eeb-d206-4366-9d4e-b927467fe59d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Low' or . = 'Low')]</value>
+      <webElementGuid>cf9d9eeb-2743-47f9-905e-3453e07388c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

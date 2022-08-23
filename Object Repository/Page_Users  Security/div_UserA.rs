@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_UserA</name>
+   <tag></tag>
+   <elementGuidId>8be4218f-1165-41d6-8d9a-cd408f7d5eb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-grid-cell-contents.ng-binding.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='1661198916616-0-uiGrid-005B-cell']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e5fe2a72-b5b9-4b02-8ebe-6f58d4d9d2c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-grid-cell-contents ng-binding ng-scope</value>
+      <webElementGuid>21a91bd5-bf1a-4d78-92d7-e4175ecac9a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UserA</value>
+      <webElementGuid>c4e1f96c-f0a6-4f45-a343-0acbad64461d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1661198916616-0-uiGrid-005B-cell&quot;)/div[@class=&quot;ui-grid-cell-contents ng-binding ng-scope&quot;]</value>
+      <webElementGuid>ea28bd97-d6bf-4468-bc40-68b142987f04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1661198916616-0-uiGrid-005B-cell']/div</value>
+      <webElementGuid>537b7937-ca6a-4285-a382-4f6a5a970679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/following::div[21]</value>
+      <webElementGuid>27588972-fae8-4b39-a6b6-aeb886b7aaf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Type'])[1]/following::div[48]</value>
+      <webElementGuid>6ab05d28-c4f6-4e7c-9a56-03cdce014d8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='One'])[1]/preceding::div[1]</value>
+      <webElementGuid>be4ddbc1-a64f-4b01-b6a4-e4d1ea93bd74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::div[3]</value>
+      <webElementGuid>0c880693-c663-4ce6-b99a-5bdab5d78683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='UserA']/parent::*</value>
+      <webElementGuid>ef394f36-a2db-4ea2-a816-81505238298e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>4d14877f-d5cb-457e-91ab-ace405b98fce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'UserA' or . = 'UserA')]</value>
+      <webElementGuid>ae600631-abbf-4376-889a-297b793fa91f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

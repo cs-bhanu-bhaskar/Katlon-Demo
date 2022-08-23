@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Mode_fa fa-1x fa-play</name>
+   <tag></tag>
+   <elementGuidId>3644603d-e685-4e40-9652-a6083a096691</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-1x.fa-play</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='trigger-playbook-button']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>59f8fe72-1468-457f-98e4-0d1582301425</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-1x fa-play</value>
+      <webElementGuid>d0364c27-90f0-4eec-83cd-fa65bc144637</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;trigger-playbook-button&quot;)/i[@class=&quot;fa fa-1x fa-play&quot;]</value>
+      <webElementGuid>6a1f451e-82cb-4614-bd10-2d6f8e26ceb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='trigger-playbook-button']/i</value>
+      <webElementGuid>321afcfd-bfe1-4822-afd0-b1c77d09c69e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/button/i</value>
+      <webElementGuid>e5b123dd-9cfa-4b77-9792-a69c8e48a6d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

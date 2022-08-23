@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>1c308f51-1c23-4405-96e2-6cbcea01f665</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.page-context.pull-left.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-content-wrapper']/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>da4d8321-8b2f-4e34-bb54-0ec0998c8fa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-context pull-left ng-binding</value>
+      <webElementGuid>32d7dceb-8364-4598-88c4-d9ce2c51cd45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-class</name>
+      <type>Main</type>
+      <value>{'padding-left-sm': currentStateName !== 'main.dashboard'}</value>
+      <webElementGuid>4708ac3b-0845-4d49-b9a8-28ed96b24024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+      <webElementGuid>410ed298-ce6f-466d-8e92-fd84008668cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content-wrapper&quot;)/div[@class=&quot;second-top hideForHeadless&quot;]/div[@class=&quot;container-fluid&quot;]/span[@class=&quot;page-context pull-left ng-binding&quot;]</value>
+      <webElementGuid>d2187e34-41f9-4382-b9e3-8b46d76d4a37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-content-wrapper']/div/div/span</value>
+      <webElementGuid>4075b90c-fd0a-456a-b3e4-a70c6eee83dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Community'])[1]/following::span[3]</value>
+      <webElementGuid>ef696387-60de-491a-82a4-897cd3822422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/following::span[4]</value>
+      <webElementGuid>91d6d167-ed18-4b41-b251-ebc035512ea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>da2032c9-54ae-4ffa-a005-4fa8cc41dfd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dashboard' or . = 'Dashboard')]</value>
+      <webElementGuid>df98ced4-f6cc-43ca-aeba-4f71f8563ebe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

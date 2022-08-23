@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Automation Playbook Collection</name>
+   <tag></tag>
+   <elementGuidId>94fa5f28-2966-48d5-a017-9a13d38ec690</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#view-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>dc4aa9a9-78ed-4098-a854-f0d57386ff47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>view-name</value>
+      <webElementGuid>f01930df-5669-4436-9288-501ad256e4e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>field.type !== 'url'</value>
+      <webElementGuid>42121f12-ed25-4153-b252-7257443a2379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>word-break read-only-item margin-0 ng-binding ng-scope</value>
+      <webElementGuid>70c21796-97a3-4bd4-9d01-ece627bb72a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Automation Playbook Collection</value>
+      <webElementGuid>7584540c-3b5d-4281-9f11-a4024a619c38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-bind</name>
+      <type>Main</type>
+      <value>displayResult</value>
+      <webElementGuid>88fe7126-db32-45d2-8530-f05d09c36019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-class</name>
+      <type>Main</type>
+      <value>{'filehash-field': field.type==='filehash'}</value>
+      <webElementGuid>02232fbb-6fd6-4c0a-b372-595eeba8f528</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Automation Playbook Collection</value>
+      <webElementGuid>dda563ed-e9d9-4ed0-8e9f-bc59e1a6d648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view-name&quot;)</value>
+      <webElementGuid>c1ec7131-ce88-4b7c-b424-45894ad2bd10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='view-name']</value>
+      <webElementGuid>288d0e49-fb29-482b-affb-ad0536519f45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='list-pane']/div/div/div/div/div/div/div/div[2]/div/div/ng-form/div/div/div/div/p</value>
+      <webElementGuid>46b0e47e-6c6e-4329-b661-56514103907f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::p[1]</value>
+      <webElementGuid>47552ebc-4b75-4265-b0cf-6292c7e3b9b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::p[1]</value>
+      <webElementGuid>1ccb3aa1-0cd8-4e8d-af6f-be596ed9d3c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tags'])[1]/preceding::p[4]</value>
+      <webElementGuid>8cf439d8-30ea-417a-ae42-33f33e288e9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Add Tags'])[1]/preceding::p[4]</value>
+      <webElementGuid>b91d646e-0f1a-4d6e-a53e-1d885be4ef53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-form/div/div/div/div/p</value>
+      <webElementGuid>33aa0043-f628-40dc-9f28-b764f6938605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'view-name' and @title = 'Automation Playbook Collection' and (text() = 'Automation Playbook Collection' or . = 'Automation Playbook Collection')]</value>
+      <webElementGuid>d7de8298-5dcb-4419-8d36-b3655614c30b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

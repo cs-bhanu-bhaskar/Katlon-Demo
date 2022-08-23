@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add_icon icon-add margin-right-sm</name>
+   <tag></tag>
+   <elementGuidId>130455be-8782-4c29-83b2-286a985f2eb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon.icon-add.margin-right-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='add-alert-btn']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>db84a149-5f53-48d3-a24e-255f8ee28eb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-add margin-right-sm</value>
+      <webElementGuid>1b5f1aa6-3163-4543-844d-a43983cf4202</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-alert-btn&quot;)/span[@class=&quot;icon icon-add margin-right-sm&quot;]</value>
+      <webElementGuid>a00539b0-d7da-468c-b837-aa25250d807e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='add-alert-btn']/span</value>
+      <webElementGuid>c18d76c7-c479-4a8a-bf25-8a938f34b834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>a46ce56c-e50b-4e2b-8e85-bb58e8140d89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

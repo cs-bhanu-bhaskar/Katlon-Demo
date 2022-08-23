@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Toggle Navigation_icon icon-settings head_e595c9</name>
+   <tag></tag>
+   <elementGuidId>044dbcd0-7484-461a-9a9b-9444d77e8fbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.icon-settings.header-font-size</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b0e22262-e4a1-4894-bfd6-d1fdd9b136f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-settings header-font-size</value>
+      <webElementGuid>49800ab9-a3fe-4eb0-8f54-d9d95322a76d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cs-header&quot;)/ul[@class=&quot;nav navbar-nav navbar-right margin-left-md&quot;]/li[@class=&quot;dropdown&quot;]/a[@id=&quot;administration-links&quot;]/span[@class=&quot;no-border padding-left-md padding-right-md display-inline-block&quot;]/i[@class=&quot;icon icon-settings header-font-size&quot;]</value>
+      <webElementGuid>8ce75a6c-e8aa-4f1b-addc-b1ea92c9f27e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='administration-links']/span/i</value>
+      <webElementGuid>8c6552ce-cf6e-4180-9cdc-89c337ad0026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>97a535d3-982c-4ab5-9e10-750c7c96b0e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

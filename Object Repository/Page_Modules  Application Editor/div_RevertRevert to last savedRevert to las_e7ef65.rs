@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_RevertRevert to last savedRevert to las_e7ef65</name>
+   <tag></tag>
+   <elementGuidId>d80906a3-e814-4c1a-ac24-e0476c87fc27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-8.col-md-7.text-right.margin-top-xlg.padding-top-md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>17b67c6d-5092-4565-ab3a-b9374c65cb1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-lg-8 col-md-7 text-right margin-top-xlg padding-top-md</value>
+      <webElementGuid>b487cf22-b633-4f0a-8362-488152bdbf36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-show</name>
+      <type>Main</type>
+      <value>permission.create || module.uuid</value>
+      <webElementGuid>fdd21d57-918e-4021-a38f-e7da4ba78e7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>f3e3817e-cddb-4a3f-a504-f36993ddb52e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Revert Revert to last savedRevert to last publishedSave</value>
+      <webElementGuid>49de6d5e-3cc3-4b7e-95a3-472e2bc3d66d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;admin-pane&quot;)/div[@class=&quot;admin-content ng-scope&quot;]/div[@class=&quot;padding-bottom-xlg clearfix ng-scope&quot;]/div[3]/div[@class=&quot;row margin-0 padding-bottom-md&quot;]/div[@class=&quot;col-lg-8 col-md-7 text-right margin-top-xlg padding-top-md&quot;]</value>
+      <webElementGuid>2608b0d7-0687-4ec1-9b04-922911ffc8b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='admin-pane']/div/div/div[3]/div/div[2]</value>
+      <webElementGuid>54fb8fa6-0da7-4289-8c42-43effe8ecb14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div/div[2]</value>
+      <webElementGuid>035f9786-03ff-4a8d-b0f5-a9d1f063a7ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Revert Revert to last savedRevert to last publishedSave' or . = ' Revert Revert to last savedRevert to last publishedSave')]</value>
+      <webElementGuid>60ae3b60-8e3a-4849-8e81-f24bd171b035</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

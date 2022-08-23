@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_(Picklist)_icon icon-close</name>
+   <tag></tag>
+   <elementGuidId>22a736e7-4704-4716-b148-ed80620c3aaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.close-modal-button > i.icon.icon-close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='designer']/div[2]/div/div/div/div/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e0db6240-de20-4f95-b714-62305d3e05c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-close</value>
+      <webElementGuid>239feb9f-8403-400e-b1da-3deeedb64f10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;designer&quot;)/div[@class=&quot;canvas-container full&quot;]/div[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;right-nav-panel  running-playbook&quot;]/div[@class=&quot;right-nav-panel-close&quot;]/div[@class=&quot;close-action modal-cancel-icon&quot;]/div[@class=&quot;close-modal-button&quot;]/i[@class=&quot;icon icon-close&quot;]</value>
+      <webElementGuid>42263f9d-040b-4850-8df0-6a2464f50c57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='designer']/div[2]/div/div/div/div/div/i</value>
+      <webElementGuid>8bc168c1-d8e6-4b59-b1d1-a348cbdb7ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/i</value>
+      <webElementGuid>322c70f0-687c-4838-b6de-57322127a400</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

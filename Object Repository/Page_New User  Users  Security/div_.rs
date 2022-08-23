@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>ad547cad-c4cb-4c17-a4cc-e21027530b45</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' ' or . = ' ')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[contains(@class,&quot;ui-grid-cell-contents&quot;)][text()='SOC Analyst']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-grid-selection-row-header-buttons.ui-grid-icon-ok.clickable.ng-pristine.ng-untouched.ng-valid.ng-scope.ng-not-empty</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4533dd46-66b8-4e32-b4d1-f51b5dfe2370</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-grid-selection-row-header-buttons ui-grid-icon-ok clickable ng-pristine ng-untouched ng-valid ng-scope ng-not-empty</value>
+      <webElementGuid>41aae290-e4a6-42ae-be9c-1682893ed616</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'ui-grid-row-selected': row.isSelected}</value>
+      <webElementGuid>810581af-f6e3-41cf-ad2e-87f880bf0356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>1381655e-4354-48e5-9f14-8cc9cef0c251</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>selectButtonClick(row, $event)</value>
+      <webElementGuid>ee533a3f-0c6a-4ecd-b578-f375f6115010</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-keydown</name>
+      <type>Main</type>
+      <value>selectButtonKeyDown(row, $event)</value>
+      <webElementGuid>5e910a80-d291-4e62-915d-5d6e3cf21408</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-attr-aria-label</name>
+      <type>Main</type>
+      <value>{{('selection.aria.row' | t) + ' ' + (row.index + 1) + ', ' + col.displayName}}</value>
+      <webElementGuid>55e32ee1-4ed9-4747-8324-af925ff62d90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-checked</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>27c8753a-8488-4d2f-8ca8-a0112a04e879</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>f701ee66-6086-4466-9cc1-7d85c907968c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>row.isSelected</value>
+      <webElementGuid>0923efdd-1b52-45c3-a7ac-cb8fab161363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Row 1, Row Selection Checkbox</value>
+      <webElementGuid>20182b59-45a2-4610-b8d0-f8275e034f7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ef6ef92d-cd84-4aed-a811-31c689c7a8ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>ae328253-c83d-4b70-a39d-77bbb2ef31f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1661198916614-0-uiGrid-002V-cell&quot;)/div[@class=&quot;ui-grid-cell-contents ui-grid-disable-selection clickable ng-scope&quot;]/div[@class=&quot;ui-grid-selection-row-header-buttons ui-grid-icon-ok clickable ng-pristine ng-untouched ng-valid ng-scope ng-not-empty&quot;]</value>
+      <webElementGuid>1643ea0a-0219-4ccb-99be-c4486974ac32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1661198916614-0-uiGrid-002V-cell']/div/div</value>
+      <webElementGuid>57e0f5b1-320e-4bbc-84e7-37217b531d60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teams'])[2]/following::div[26]</value>
+      <webElementGuid>0bb14b0b-bfb6-4cd5-a4a8-14c4f1c6c14a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply Teams and Roles'])[1]/following::div[29]</value>
+      <webElementGuid>5efa5b84-9932-4ab5-989d-8b1be03d106c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::div[1]</value>
+      <webElementGuid>e39e1647-c369-4e3d-875b-34cd46aa2828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[6]/preceding::div[7]</value>
+      <webElementGuid>1e53feea-2e55-423e-a1ba-87063bffbd5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div/div/div/div/div</value>
+      <webElementGuid>eccc77b1-d9a5-47dd-b8cd-362b80653219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' ' or . = ' ')]</value>
+      <webElementGuid>1ad969ee-7d4a-461c-8f5f-9b9e0a09ca35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[contains(@class,&quot;ui-grid-cell-contents&quot;)][text()='SOC Analyst']</value>
+      <webElementGuid>937dbdbd-30fe-402a-b461-e4fe3ae9be09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

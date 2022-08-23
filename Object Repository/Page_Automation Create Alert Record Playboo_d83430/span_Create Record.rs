@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Create Record</name>
+   <tag></tag>
+   <elementGuidId>c0ec23d7-1b5e-4f3e-b8c8-773c01f91647</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ng-scope > a > span.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-type']/ul[2]/li/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>72f0f61c-7c0b-449a-8d43-9d07169f43bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-bind</name>
+      <type>Main</type>
+      <value>stepType.displayName</value>
+      <webElementGuid>115a619a-f7f4-43df-ad36-750d96a48ca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>9e3f0e38-5772-4783-9dad-43e0b7033770</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Record</value>
+      <webElementGuid>f43621a4-0fc7-494f-9a2c-0014406be4be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-type&quot;)/ul[@class=&quot;stepTypes ng-scope&quot;]/li[@class=&quot;ng-scope&quot;]/a[1]/span[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>362937be-7cf3-4f5f-9b5f-47bc2e95dff3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-type']/ul[2]/li/a/span</value>
+      <webElementGuid>83b6f3d6-e338-4ca5-b569-f151e631b3d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Core'])[1]/following::span[2]</value>
+      <webElementGuid>7301070d-b51e-4f50-96c4-dc5fbbfbdde9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pre-Delete Trigger'])[1]/following::span[2]</value>
+      <webElementGuid>239cee49-2548-4e70-a435-e53762c19126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Record'])[1]/preceding::span[2]</value>
+      <webElementGuid>0327d21a-f600-4620-9743-48aab1ccb18a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find Records'])[1]/preceding::span[4]</value>
+      <webElementGuid>020c6b05-8023-4ac7-abfe-558c8dd6c4b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create Record']/parent::*</value>
+      <webElementGuid>e528a3e7-c0d1-4789-90fd-31d1b228c223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li/a/span</value>
+      <webElementGuid>e93cd6d7-74f9-4dd1-b084-34d01216a7d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Create Record' or . = 'Create Record')]</value>
+      <webElementGuid>d280a243-ce47-4296-abb4-7e91a4a29cb6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

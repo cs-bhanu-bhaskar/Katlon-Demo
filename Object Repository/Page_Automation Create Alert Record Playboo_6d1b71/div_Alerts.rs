@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Alerts</name>
+   <tag></tag>
+   <elementGuidId>8a064ca4-3bf5-4881-867b-1e120c1b8a40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-select-choices-row-inner > div.ng-binding.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-select-choices-row-1-0']/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cec7d120-1d4c-4387-aecc-4035560aaa3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind</name>
+      <type>Main</type>
+      <value>module.name</value>
+      <webElementGuid>05df0e5b-81b4-4e08-886f-723bdf2a387c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding ng-scope</value>
+      <webElementGuid>d7709bb6-e55a-43c4-bbc2-d6b98be8c62e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alerts</value>
+      <webElementGuid>50a9e5ed-6403-4393-8d8b-ba37850f6254</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-select-choices-row-1-0&quot;)/span[@class=&quot;ui-select-choices-row-inner&quot;]/div[@class=&quot;ng-binding ng-scope&quot;]</value>
+      <webElementGuid>fe86e265-0d08-432b-ab78-a90f7325e5f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-select-choices-row-1-0']/span/div</value>
+      <webElementGuid>55b164ff-2376-4c76-bb9f-42f9c69b72fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Announcements'])[1]/preceding::div[1]</value>
+      <webElementGuid>f305e8a5-1ab0-47ff-b4d4-f3f8a7a52fc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assets'])[2]/preceding::div[3]</value>
+      <webElementGuid>fa7963b9-f27e-409b-9dc7-f794ab0696ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/div</value>
+      <webElementGuid>c79b9ee3-d77f-4a8d-bc7d-f45ad690c384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Alerts' or . = 'Alerts')]</value>
+      <webElementGuid>1e1ef318-92e9-4dcc-a9bd-eb45e9001578</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

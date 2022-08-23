@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Fields Editor</name>
+   <tag></tag>
+   <elementGuidId>cd5ba03f-6005-46ee-9268-64ba2ad52333</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='admin-pane']/div/div/div[3]/form/div[2]/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b415cc4d-9bc0-43ea-bc0d-f4323f4fcd08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>select($event)</value>
+      <webElementGuid>38b5f6f0-b1f6-4026-b0e8-558ead96edb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link ng-binding</value>
+      <webElementGuid>8444566d-7181-440f-84e4-3cb34816d889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fields Editor</value>
+      <webElementGuid>8491d1d6-9c30-4364-b530-a571dd45cc71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;admin-pane&quot;)/div[@class=&quot;admin-content ng-scope&quot;]/div[@class=&quot;padding-bottom-xlg clearfix ng-scope&quot;]/div[3]/form[@class=&quot;ng-invalid ng-invalid-required ng-valid-unique ng-dirty ng-valid-parse&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;no-background ng-isolate-scope&quot;]/ul[@class=&quot;nav nav-tabs&quot;]/li[@class=&quot;uib-tab nav-item ng-scope ng-isolate-scope&quot;]/a[@class=&quot;nav-link ng-binding&quot;]</value>
+      <webElementGuid>850e7071-0f8b-4544-a450-4fd6121387d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='admin-pane']/div/div/div[3]/form/div[2]/div/ul/li[2]/a</value>
+      <webElementGuid>cdb3b730-42da-4034-88d9-50d4b3f0fdfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Fields Editor')]</value>
+      <webElementGuid>9e720d52-1d06-4cd0-abf0-389097485871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Summary'])[1]/following::a[1]</value>
+      <webElementGuid>36bf0831-7018-4ecb-be03-31c9e4cd53ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Module change initiated. Awaiting response from tenant.'])[1]/following::a[2]</value>
+      <webElementGuid>3fef3f29-be3f-4188-a456-41b6c749ef59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Module Name cannot be modified, once it is saved'])[1]/preceding::a[1]</value>
+      <webElementGuid>f373ad68-0183-4a44-b8a1-decede50f21e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Fields Editor']/parent::*</value>
+      <webElementGuid>bb934062-5328-4cde-90a7-f0e2f5aa8d7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[100]</value>
+      <webElementGuid>3fb7922c-4ec5-4c84-b939-14918fea107f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/ul/li[2]/a</value>
+      <webElementGuid>96afa773-42ef-4b00-bcd0-095b89340857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Fields Editor' or . = 'Fields Editor')]</value>
+      <webElementGuid>d53d812a-5eea-40bd-a8a1-487861b2e281</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

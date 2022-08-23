@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_None_fa fa-glass</name>
+   <tag></tag>
+   <elementGuidId>8c4616bd-3824-4779-84c6-235168959837</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa.fa-glass</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='select-icons-btn-1']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f2f64455-32b2-4c89-9e17-1cc15efa19af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-glass</value>
+      <webElementGuid>94a3e6c6-ba31-4176-815b-82f0f3ce53b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select-icons-btn-1&quot;)/span[@class=&quot;fa fa-glass&quot;]</value>
+      <webElementGuid>1866d740-24dc-4c67-871d-4a3916dd331a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='select-icons-btn-1']/span</value>
+      <webElementGuid>0356087a-4742-497d-b505-ff1565f0bfdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button/span</value>
+      <webElementGuid>4a5d9855-86ae-48f4-ae36-2dc8f23378d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

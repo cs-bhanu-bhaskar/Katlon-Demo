@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_High</name>
+   <tag></tag>
+   <elementGuidId>f8b4f571-cd8f-43c8-9d19-db26287cd8e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='editable-severity-lookup-btn']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1acc6050-0480-4a78-b1e0-4d1c510fa161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text ng-binding</value>
+      <webElementGuid>eb552ada-3b1b-4aa5-9231-39116819e26f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>High</value>
+      <webElementGuid>78c5293c-b34c-4c62-b26d-efca60a8d3e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;editable-severity-lookup-btn&quot;)/div[1]/span[@class=&quot;text ng-binding&quot;]</value>
+      <webElementGuid>dba5ce7b-172c-48a9-9637-6599b930712c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='editable-severity-lookup-btn']/div/span</value>
+      <webElementGuid>9008a29b-b8ef-4c0f-adba-289e74278411</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Severity'])[1]/following::span[3]</value>
+      <webElementGuid>42db5829-d701-45a8-946d-d7cb7b34e59e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alert: Alert From Automation 01'])[1]/following::span[4]</value>
+      <webElementGuid>1f6faa54-7dfb-4bcd-9909-678c5a9c9e19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='{}'])[1]/preceding::span[2]</value>
+      <webElementGuid>c08f550e-66ff-47c0-b1b2-571639b73b40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='High'])[2]/preceding::span[3]</value>
+      <webElementGuid>dbf1a5ff-9796-4272-ad29-c941810c23dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='High']/parent::*</value>
+      <webElementGuid>2a619ce1-3d2f-44b4-baee-ae0bcb4cda56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/span</value>
+      <webElementGuid>2fa09d25-b9e3-4ea5-94d3-3d4845ac9697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'High' or . = 'High')]</value>
+      <webElementGuid>76432d40-1cc7-44fe-a678-3c0fadfb5aef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

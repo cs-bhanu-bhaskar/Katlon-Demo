@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "7BB8DB86DB17A9E28B964B5D0FF27FCF",
+  "keywordClasses": [
+    {
+      "name": "customKeys.Login",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Application Configuration_icon icon-setti_60b5c7</name>
+   <tag></tag>
+   <elementGuidId>c21bae73-e8f5-4930-885d-2c6576f12713</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.icon-settings.header-font-size</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='administration-links']/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>99904f19-04dc-46dd-823a-c2966c8531be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-settings header-font-size</value>
+      <webElementGuid>96deafff-a069-4b42-a002-96d941afc1f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;administration-links&quot;)/span[@class=&quot;no-border padding-left-md padding-right-md display-inline-block&quot;]/i[@class=&quot;icon icon-settings header-font-size&quot;]</value>
+      <webElementGuid>e6a50e47-2e1f-409f-8d5b-99caf2d02a8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='administration-links']/span/i</value>
+      <webElementGuid>02d0288a-e275-4603-bc09-ed2c5a26077d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>b2f05de2-1ac4-41b8-b6a6-7f4169b0ce8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

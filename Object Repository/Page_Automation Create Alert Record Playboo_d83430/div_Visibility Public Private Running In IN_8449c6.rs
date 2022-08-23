@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Visibility Public Private Running In IN_8449c6</name>
+   <tag></tag>
+   <elementGuidId>62db5094-82b1-471b-9252-7185272c3e68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-6.margin-top-sm.padding-left-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ff89d4e3-74ca-4502-a941-b3f684c25ef0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-lg-6 margin-top-sm padding-left-0</value>
+      <webElementGuid>4647b1a5-70b2-4904-abba-4fac1b9dcf0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Visibility Public Private Running In INFO Mode     Tools Edit ParametersGlobal VariablesExecution PriorityExecution HistoryJinja Editor  Save Version View Saved VersionsRevert To Last Saved Save PlaybookMark As Current Saved Playbook</value>
+      <webElementGuid>9318cebd-fac6-4ef8-882f-876db9e4dd79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;details&quot;)/form[@class=&quot;ng-pristine ng-valid ng-valid-tags-length ng-valid-max-tags ng-valid-min-tags ng-valid-leftover-text&quot;]/div[@class=&quot;row padding-left-md alert-Low-gradient-status&quot;]/div[@class=&quot;col-lg-6 margin-top-sm padding-left-0&quot;]</value>
+      <webElementGuid>2ca75bea-3852-49c8-ac50-e732657d2e14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='details']/form/div/div[2]</value>
+      <webElementGuid>763b82a2-0f4e-4c27-978e-f0b91f7248ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--'])[5]/following::div[1]</value>
+      <webElementGuid>bd5face7-de07-4f93-bb05-c43ff2265b42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Add Tags'])[1]/following::div[5]</value>
+      <webElementGuid>6f41a421-69fb-4055-ad4a-67cf898ee191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/form/div/div[2]</value>
+      <webElementGuid>8ac3d2e4-d9e2-4ffe-8f08-897c0e545f57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Visibility Public Private Running In INFO Mode     Tools Edit ParametersGlobal VariablesExecution PriorityExecution HistoryJinja Editor  Save Version View Saved VersionsRevert To Last Saved Save PlaybookMark As Current Saved Playbook' or . = 'Visibility Public Private Running In INFO Mode     Tools Edit ParametersGlobal VariablesExecution PriorityExecution HistoryJinja Editor  Save Version View Saved VersionsRevert To Last Saved Save PlaybookMark As Current Saved Playbook')]</value>
+      <webElementGuid>61c23f63-16d4-4c25-ac9a-1b64ff08ea1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

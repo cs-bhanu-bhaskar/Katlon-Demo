@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Low</name>
+   <tag></tag>
+   <elementGuidId>a92ac1d6-c309-499c-8ec2-eeb8c928d8a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#insertDataForm-severity-lookup-btn > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='insertDataForm-severity-lookup-btn']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>edc192ca-6b8e-4797-9afc-61c63edf25bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Low </value>
+      <webElementGuid>961187bb-398d-4450-9239-b6f7253012d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;insertDataForm-severity-lookup-btn&quot;)/div[1]</value>
+      <webElementGuid>a8005dfc-23e2-438d-b697-0b198ec384b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='insertDataForm-severity-lookup-btn']/div</value>
+      <webElementGuid>c9415d22-45d0-46c9-8c76-8e5d858776a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='{}'])[8]/following::div[11]</value>
+      <webElementGuid>0de3ac4d-6a57-4147-a6e3-bfa038637aa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='{}'])[9]/preceding::div[1]</value>
+      <webElementGuid>49650104-c5cf-45e8-ae4b-cdc8850d8c2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div[3]/div/div/div/button/div</value>
+      <webElementGuid>8b4b93e2-c0ce-464c-893b-fea3b3b5e107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  Low ' or . = '  Low ')]</value>
+      <webElementGuid>84ca70f5-95d2-49a7-9a0f-b306d0944051</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

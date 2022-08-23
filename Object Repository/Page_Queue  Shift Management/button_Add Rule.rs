@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Rule</name>
+   <tag></tag>
+   <elementGuidId>d82c4765-b3a5-4e4a-bc1c-559681fb48e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.padding-top-md.ng-scope > button.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1256c76e-d002-4898-95ce-a236a0e67ae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>96ff888a-cb74-41a0-b1c6-c06af84be539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>9ecedf33-644d-4769-a99c-aa60fb8901d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>$ctrl.addRecordTypeRule()</value>
+      <webElementGuid>252a342b-a2db-4c0e-8e83-486d9bd2b4cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+ Add Rule</value>
+      <webElementGuid>c7ab08ff-43ca-46dc-b899-8680cd7790da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[@class=&quot;animated fadeIn modal-open&quot;]/div[@class=&quot;modal modal-ingestion ng-scope ng-isolate-scope in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/queue-wizard[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;modal-body padding-0 queue-wizard&quot;]/div[@class=&quot;cs-wizard ingestion-steps queue-wizard-steps ng-isolate-scope&quot;]/div[@class=&quot;steps ng-scope&quot;]/section[@class=&quot;ingestion-modal-padding wz-reviewoptions-step step ng-scope ng-isolate-scope current&quot;]/form[@class=&quot;ng-pristine ng-valid ng-scope&quot;]/div[@class=&quot;full-width wz-step-height&quot;]/div[@class=&quot;row wizard-full-height margin-0&quot;]/div[@class=&quot;col-md-8 padding-bottom-65 padding-top-40 padding-left-45 padding-right-53 wizard-full-height overflow-auto&quot;]/div[@class=&quot;padding-top-md ng-scope&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>7573249c-20b1-4077-8f13-9b07ac5ac78e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>e0f58cb6-b9b0-4d3d-99c9-5374668d3255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose how records will be added to the queue.'])[1]/following::button[1]</value>
+      <webElementGuid>023234ae-d08d-4ae2-a3d2-cb7d27de4e95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Define Queue Rules'])[1]/following::button[1]</value>
+      <webElementGuid>27411e4a-a9a2-43e5-8dba-9a65590afbc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::button[1]</value>
+      <webElementGuid>2cd89cc7-37a6-44b1-a598-268e15bc8a0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next: Define Members'])[1]/preceding::button[2]</value>
+      <webElementGuid>c5d8de12-a693-4760-9bd1-b85137828dd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+ Add Rule']/parent::*</value>
+      <webElementGuid>57fa241a-b55f-43f3-a2fa-c0654e2a43fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/button</value>
+      <webElementGuid>a50015da-9945-4b55-b09d-1377fd1ef489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '+ Add Rule' or . = '+ Add Rule')]</value>
+      <webElementGuid>02f7f513-b605-4e1e-a4cf-5b0eacd9b071</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

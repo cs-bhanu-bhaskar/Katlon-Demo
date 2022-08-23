@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Round Robin</name>
+   <tag></tag>
+   <elementGuidId>956caa24-7dc7-4494-8c45-9b08c90a8ec1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[31]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9034e12a-e333-46c7-970b-e18249b39c3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f81243e7-cf80-4569-bb52-1f9957506138</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn margin-right-md ng-binding ng-scope btn-default</value>
+      <webElementGuid>e1214385-36b9-4d27-8529-eb1ea6b8e831</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'btn-default': $ctrl.entity.fields.assignmentMethod.value !== assignmentMethod.name, 'btn-primary': $ctrl.entity.fields.assignmentMethod.value === assignmentMethod.name}</value>
+      <webElementGuid>54cc516e-0243-4d3a-8a5f-f472398193bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>assignmentMethod in $ctrl.assignmentMethods</value>
+      <webElementGuid>b994d903-7bd0-41e8-896a-1aa0979c3e12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>$ctrl.updateAssignmentMethod(assignmentMethod)</value>
+      <webElementGuid>ff7302ab-db3f-4365-b213-41bb16a0009c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Round Robin</value>
+      <webElementGuid>a5defbe7-017c-428b-8226-07d25aab5b63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[@class=&quot;animated fadeIn modal-open&quot;]/div[@class=&quot;modal modal-ingestion ng-scope ng-isolate-scope in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/queue-wizard[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;modal-body padding-0 queue-wizard&quot;]/div[@class=&quot;cs-wizard ingestion-steps queue-wizard-steps ng-isolate-scope&quot;]/div[@class=&quot;steps ng-scope&quot;]/section[@class=&quot;ingestion-modal-padding wz-reviewoptions-step step ng-scope ng-isolate-scope current&quot;]/form[@class=&quot;ng-pristine ng-valid ng-scope&quot;]/div[@class=&quot;full-width wz-step-height&quot;]/div[@class=&quot;row wizard-full-height margin-0&quot;]/div[@class=&quot;col-md-8 padding-bottom-65 padding-top-40 padding-left-45 padding-right-53 wizard-full-height overflow-auto&quot;]/div[@class=&quot;assignment-method-box margin-top-md ng-scope&quot;]/div[@class=&quot;clearfix padding-lg secondary-background&quot;]/button[@class=&quot;btn margin-right-md ng-binding ng-scope btn-default&quot;]</value>
+      <webElementGuid>cf73038a-83ae-4d2e-93cb-56ab34c95183</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[31]</value>
+      <webElementGuid>e8a24b16-d170-41c1-ab4a-d629552176a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign to Queue Lead'])[1]/following::button[1]</value>
+      <webElementGuid>4e3d000b-5d9b-4142-b783-42f8b7b04cf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leave Unassigned'])[1]/following::button[2]</value>
+      <webElementGuid>2ff09295-2fa4-4091-8d99-2fa0d5841e0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='If no queue members are on shift, assign to'])[1]/preceding::button[1]</value>
+      <webElementGuid>68780b74-1b46-42db-b54e-afeb245e1c32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Round Robin']/parent::*</value>
+      <webElementGuid>56f8a161-146a-417e-8fdd-70b360633f1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button[3]</value>
+      <webElementGuid>9aa8a045-6551-4511-b0e1-57fcd5edaf60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Round Robin' or . = 'Round Robin')]</value>
+      <webElementGuid>fb6f0da8-05d9-44b7-bf21-d233bc3da90f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

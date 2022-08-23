@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_User Community_fa-fw fa fa fa-glass</name>
+   <tag></tag>
+   <elementGuidId>1a448c11-c942-439e-8717-653dcf3a3087</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa-fw.fa.fa.fa-glass</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navigation-wrapper']/div[2]/div/nav/ul/li[11]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7946ffe9-a49a-4622-acb3-22a6bbe4ef1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-fw fa fa fa-glass</value>
+      <webElementGuid>2e213433-c089-4c68-b63a-0ef94caa90dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navigation-wrapper&quot;)/div[@class=&quot;nav-top-bar navigationHeight nav-full-width&quot;]/div[@class=&quot;slim-scroll-wrapper&quot;]/nav[@class=&quot;mini-nav ng-scope&quot;]/ul[@class=&quot;navigation&quot;]/li[@class=&quot;animate-show-hide ng-scope&quot;]/a[@class=&quot;ng-scope&quot;]/span[@class=&quot;fa-fw fa fa fa-glass&quot;]</value>
+      <webElementGuid>0d68b7fe-eb4b-4953-a172-bed34414fb47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navigation-wrapper']/div[2]/div/nav/ul/li[11]/a/span</value>
+      <webElementGuid>c69909be-a216-4155-8310-427807c1f48e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/a/span</value>
+      <webElementGuid>b2608678-16f7-42e5-88e8-fbeeef3077e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Trigger Playbook</name>
+   <tag></tag>
+   <elementGuidId>3d3589f4-984b-48e0-9051-5b2f88a78d88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-sm.btn.btn-primary.pull-left.margin-right-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8d070a17-bb0f-437e-8823-54ffc23f8140</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>aa966cf3-defd-4023-b3a8-01ef66d61150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-disabled</name>
+      <type>Main</type>
+      <value>config.debugType === 'lastRun' &amp;&amp; executedPlaybooks.length === 0</value>
+      <webElementGuid>d429e694-ff8a-4992-8a25-67bb5eadfb5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-sm btn btn-primary pull-left margin-right-2</value>
+      <webElementGuid>3f8db5a2-ae72-4f7b-93c0-0cd16ced84a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Trigger Playbook</value>
+      <webElementGuid>a525a39c-034c-4d95-9996-f37fc34b4284</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-form&quot;)/div[1]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/form[@class=&quot;debug-playbook-form padding-top-xlg margin-top-xlg ng-pristine ng-valid&quot;]/div[3]/div[@class=&quot;playbook-btn-holder&quot;]/button[@class=&quot;btn-sm btn btn-primary pull-left margin-right-2&quot;]</value>
+      <webElementGuid>d184665f-2f31-4952-a6a6-daab413d951a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>db6f52f5-b249-475b-8b8d-b7cb56ece544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-form']/div/div/div/form/div[3]/div[2]/button</value>
+      <webElementGuid>f9efcc09-f3bf-44a9-80fb-40997629674e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No input data required to trigger the playbook.'])[1]/following::button[1]</value>
+      <webElementGuid>620a964d-7611-4761-beac-bb3687b0f872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disabled'])[1]/following::button[1]</value>
+      <webElementGuid>21c066d7-47af-4611-a391-738293215e61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[17]/preceding::button[1]</value>
+      <webElementGuid>cfc0722a-ca70-48ff-be38-c042ee9a493d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Trigger Playbook']/parent::*</value>
+      <webElementGuid>955fc336-74f3-4b49-8791-1aa17c67045e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/button</value>
+      <webElementGuid>97a64c10-877d-4b09-9a19-aef2500db19c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Trigger Playbook' or . = 'Trigger Playbook')]</value>
+      <webElementGuid>0d233b98-b301-4327-a6d3-0cbb0f5daa6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

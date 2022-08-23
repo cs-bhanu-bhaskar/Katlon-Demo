@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Does not require a record input to run</name>
+   <tag></tag>
+   <elementGuidId>01a47243-7483-4a76-a7fc-6813db0f305a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-form']/div/form/fieldset/div[5]/div/div/div/div[3]/div[2]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>620ae0c0-448b-400f-a320-584b287a7517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>runOptionRadioGroup-1</value>
+      <webElementGuid>442e38f2-0bad-4bd5-a646-6eb5302545a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radio-label ng-binding</value>
+      <webElementGuid>cb1d4f2a-b09f-4e0c-ac6a-d8d3f8c96dec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Does not require a record input to run</value>
+      <webElementGuid>f79529f9-44f9-49bd-8669-0ddd60dce0ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-form&quot;)/div[1]/form[@class=&quot;stepForm ng-valid-maxlength ng-valid ng-pristine ng-valid-required ng-valid-pattern&quot;]/fieldset[@class=&quot;selected-step-form-content&quot;]/div[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;ng-isolate-scope ng-not-empty ng-valid&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;execution-container&quot;]/div[@class=&quot;radio ng-scope&quot;]/div[@class=&quot;cs-radio-item margin-bottom-sm width-100pt&quot;]/label[@class=&quot;radio-label ng-binding&quot;]</value>
+      <webElementGuid>bfc016b3-31bf-46c3-a44b-648e6b970791</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-form']/div/form/fieldset/div[5]/div/div/div/div[3]/div[2]/div/label</value>
+      <webElementGuid>bb2e30e2-2f1d-43b7-9f14-cb36f8f72dd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resulting Value:'])[1]/following::label[1]</value>
+      <webElementGuid>06116995-2605-4dfb-9523-98f23d8f02ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Prompt'])[1]/preceding::label[1]</value>
+      <webElementGuid>00996705-a98f-47e0-925b-19b634edf17b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Input Prompt'])[1]/preceding::label[2]</value>
+      <webElementGuid>5dc77750-8c4d-4c3a-81f2-2c096a2b0cf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/label</value>
+      <webElementGuid>5e858b3f-f4e4-4fe1-a1c5-927feebea4e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Does not require a record input to run' or . = ' Does not require a record input to run')]</value>
+      <webElementGuid>77b6fb51-1fe4-482a-9a71-149b6afa74eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

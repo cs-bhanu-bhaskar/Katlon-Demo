@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div</name>
+   <tag></tag>
+   <elementGuidId>bce54c10-88f0-4f22-9452-e338b8bbf54f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div[name=&quot;resource&quot;] > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-form']/div/form/fieldset/div[5]/div/div/div/div[3]/div[2]/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1e143604-cbe4-49d4-9f48-f57ea23bee38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-form&quot;)/div[1]/form[@class=&quot;stepForm ng-valid-maxlength ng-valid-pattern ng-dirty ng-valid-parse ng-invalid ng-invalid-required&quot;]/fieldset[@class=&quot;selected-step-form-content&quot;]/div[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;ng-isolate-scope ng-not-empty ng-valid&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;execution-container&quot;]/div[@class=&quot;radio ng-scope&quot;]/div[@class=&quot;cs-radio-item margin-bottom-sm width-100pt&quot;]/div[@class=&quot;execution-content ng-scope&quot;]/div[@class=&quot;form-group padding-top-sm ng-scope has-error&quot;]/div[@class=&quot;cs-select&quot;]/div[@class=&quot;custom-multi-select ui-select-container ui-select-multiple ui-select-bootstrap dropdown form-control ng-dirty ng-empty ng-invalid ng-invalid-required ng-touched&quot;]/div[1]</value>
+      <webElementGuid>53035abd-d1d2-4c78-ba78-6b8e81cb6d50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-form']/div/form/fieldset/div[5]/div/div/div/div[3]/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>9abbd0ec-6939-4a7c-83cd-462ca23a3c7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Prompt'])[1]/preceding::div[5]</value>
+      <webElementGuid>ea574e2c-bade-401f-8e8f-b35f2d3574e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Input Prompt'])[1]/preceding::div[5]</value>
+      <webElementGuid>115d7964-1c21-4e0a-a2d7-238a1749f3a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>eac4ed99-da06-4222-9eee-dda05e737eef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

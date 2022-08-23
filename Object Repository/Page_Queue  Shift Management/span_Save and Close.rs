@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Save and Close</name>
+   <tag></tag>
+   <elementGuidId>3b101c3b-f13c-4863-9a83-071eee44e837</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#queue-assignment-next-btn > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='queue-assignment-next-btn']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>253cbf74-70da-4d1f-a177-8623ef0f18b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-hide</name>
+      <type>Main</type>
+      <value>$ctrl.nextPageLoading</value>
+      <webElementGuid>ce258a52-530d-4649-a624-bc5cf5481436</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ce04d54e-cb74-4ea9-8704-40736ab88677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save and Close</value>
+      <webElementGuid>77bb8880-9a65-430e-a5b2-bdb4e17d3ced</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;queue-assignment-next-btn&quot;)/span[1]</value>
+      <webElementGuid>8ca20263-438c-47ce-933c-4060b66ffc20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='queue-assignment-next-btn']/span</value>
+      <webElementGuid>a0947522-ff32-466e-b03a-3778c00bff54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[3]/following::span[1]</value>
+      <webElementGuid>1cb3b1a3-0efa-43ed-943f-8fe106824a16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='If no queue members are on shift, assign to'])[1]/following::span[1]</value>
+      <webElementGuid>0e943c5f-48ee-4986-980d-e413339a8613</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle Navigation'])[1]/preceding::span[5]</value>
+      <webElementGuid>59c7ec66-290d-454f-b379-f4b01d3c5b9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/form/div/div[2]/button[2]/span</value>
+      <webElementGuid>ab4ee7aa-5c6a-48c2-9f67-d641830545a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Save and Close' or . = ' Save and Close')]</value>
+      <webElementGuid>27f5969c-288a-4077-a9c9-8a2b5c458c49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
