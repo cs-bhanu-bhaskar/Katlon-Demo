@@ -1,15 +1,16 @@
 {
-  "keywordFileContentHash": "7BB8DB86DB17A9E28B964B5D0FF27FCF",
+  "keywordFileContentHash": "318F91E71A3DCA5FE5E4BD6D61508FBC",
   "keywordClasses": [
     {
       "name": "customKeys.Login",
       "keywordMethods": [
         {
           "name": "login",
-          "parameters": []
+          "parameters": [],
+          "javadoc": "/**\r\n\t * login to FSR\r\n\t * @return\r\n\t */"
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

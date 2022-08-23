@@ -28,6 +28,6 @@ WebUI.click(findTestObject('Object Repository/Page_FortiSOAR_login/button_Login'
 'Verify invalid login error message text is correct'
 WebUI.verifyElementText(findTestObject('Object Repository/Page_FortiSOAR_login/span_Invalid username or password'), 'Invalid username or password')
 
-'Verify invalid login error message is visible'
+'Verify invalid login error message is Correctly visible'
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_FortiSOAR_login/span_Invalid username or password'))
 

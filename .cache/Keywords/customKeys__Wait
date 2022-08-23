@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "3602D695B7C1517541EA341A3C2FFCED",
+  "keywordFileContentHash": "70EA9E1428CF9012A012EE12CDB0574E",
   "keywordClasses": [
     {
       "name": "customKeys.Wait",
@@ -53,7 +53,7 @@
               }
             }
           ],
-          "javadoc": "/**\n\t * wait for element not to be stale\n\t */"
+          "javadoc": "/**\r\n\t * wait for element not to be stale\r\n\t */"
         }
       ]
     }
